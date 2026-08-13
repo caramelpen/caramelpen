@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-[![My Skills](https://skillicons.dev/icons?i=cs,html,js,nodejs,jenkins,git,github,gitlab,vscode&theme=dark)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=cs,html,js,nodejs,jenkins,git,github,gitlab,vscode&theme=dark)](https://skillicons.dev)<br>
 [![でばっぐ神社](https://d-shrine.jp/badgeGo?user=caramelpen)](https://d-shrine.jp/u/caramelpen)
