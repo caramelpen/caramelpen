@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 <br>
 [![My Skills](https://skillicons.dev/icons?i=cs,html,js,nodejs,jenkins,git,github,gitlab,vscode&theme=dark)](https://skillicons.dev)<br><br>
 [![でばっぐ神社](https://d-shrine.jp/badgeGo?user=caramelpen)](https://d-shrine.jp/u/caramelpen)
-![](https://komarev.com/ghpvc/?username=caramelpen&color=blue&style=flat-square&abbreviated=true)
-
